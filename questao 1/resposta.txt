@@ -1,0 +1,1 @@
+O algoritimo realiza um loop com a intercao de valores na variavel soma, o valor final de SOMA será 77.
