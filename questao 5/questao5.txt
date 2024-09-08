@@ -1,0 +1,46 @@
+Calcular o Tempo para o Encontro
+Distância total entre Ribeirão Preto e Barretos: 125 km
+
+Velocidade do carro: 90 km/h
+
+Velocidade do caminhão: 80 km/h
+
+A velocidade relativa entre o carro e o caminhão é a soma das velocidades dos dois veículos, já que eles estão se movendo em direções opostas.
+
+Velocidade relativa = Velocidade do carro + Velocidade do caminhão 
+Velocidade relativa = 90km/h + 80km/h = 170 km/h
+Agora, calculamos o tempo necessário para que os veículos se cruzem:
+
+Tempo para o encontro = Distancia total/Velocidade relativa
+Tempo para o encontro = 125km /170 km/h ≈ 0,735 horas
+Convertendo para minutos:  0,735horas×60 minutos hora ≈ 44minutos
+
+
+Distância percorrida pelo carro: 
+Distancia do carro = Velocidade do carro × Tempo
+90 km/h × 0,735 horas ≈ 66,15 km
+
+
+Distância percorrida pelo caminhão: 
+Distancia do caminhao = Velocidade do caminhao × Tempo
+80km/h × 0,735horas ≈ 58,80km
+
+Ajustar o Tempo do Carro pelos Pedágios
+O carro enfrenta 3 pedágios e leva 5 minutos a mais para passar por cada um deles:
+3 pedagios×5minutos/pedagio = 15minutos
+15 minutos= 60/15 horas =0,25horas
+
+Distância recalculada do carro (ajustado): 
+Distancia do carro= 90km/h × 0,985horas =88,65km
+
+Distância percorrida pelo caminhão (permanece a mesma, pois o tempo não muda para ele): 
+Distancia do caminhao≈58,80km
+
+Quando os veículos se cruzam, a distância do carro a Ribeirão Preto é: 125km − 88,65km = 36,35km
+
+A distância do caminhão a Ribeirão Preto é: 
+58,80km
+
+Conclusão
+Quando os veículos se cruzam, o carro estará mais próximo da cidade de Ribeirão Preto, a aproximadamente 36,35 km de distância,
+comparado ao caminhão, que estará a aproximadamente 58,80 km de distância.
